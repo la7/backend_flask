@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-Swagger-UI
+flasgger==0.9.7.1 #Removed version pin; installs latest
+debugpy==1.8.20
